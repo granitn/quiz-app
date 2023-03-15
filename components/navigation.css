@@ -1,0 +1,15 @@
+.navBar {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background: rgba(173, 176, 188, 0.53);
+}
+
+.navBar--align {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.navBar--align > .navBar__element {
+  list-style-type: none;
+}
