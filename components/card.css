@@ -16,10 +16,10 @@
 
 .card__bookmark {
   align-self: flex-end;
+  position: relative;
+  top: -1.5em;
   background: transparent;
-
   border: none;
-  width: 30px;
 }
 
 .question {
